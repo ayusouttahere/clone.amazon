@@ -1,7 +1,7 @@
 /* IMPORTING OTHER CSS FILES  */
 /* as there ain't no way to sectin css files so i made different files for different component so it dosen't get overwhelming */
-@import url('./.stylesheet/first-nav.css'); /* for fist nav-bar */ 
-
+@import url('./.stylesheet/first-nav.css'); /* nav-bar */ 
+@import url('./.stylesheet/panel.css'); /* panel*/ 
 
 /* Universal Changes  */
 *{
