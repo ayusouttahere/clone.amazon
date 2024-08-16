@@ -37,7 +37,7 @@
 
     /* setting up logo as background-image  */
       .navbar .nav-logo .logo{
-         background-image : url("./.assets/amazon_logo.png"); 
+         background-image : url("./../.assets/amazon_logo.png"); 
          background-size: cover;
          height: 50px ; 
          width: 100% ; 
