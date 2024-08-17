@@ -4,6 +4,7 @@
 @import url('./.stylesheet/panel.css'); /* panel*/ 
 @import url('./.stylesheet/hero-section.css'); /* hero section */ 
 @import url('./.stylesheet/shop-section.css'); /* shop section */ 
+@import url('./.stylesheet/footer.css'); /* footer */
 /* Universal Changes  */
 *{
  /* removing default margin and padding  */
