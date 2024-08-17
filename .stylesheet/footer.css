@@ -60,7 +60,7 @@ footer{
    }
    
       footer .foot-panel-three .panel-logo{
-         background-image: url('.assets/amazon_logo.png') ;
+         background-image: url('../.assets/amazon_logo.png') ;
          background-size: cover ;
          height: 50px ; 
          width: 100px ; 
