@@ -1,4 +1,7 @@
 <h2>Amazon Clone (using HTML nd CSS)</h2>
+
+[(click here to run this webpage on gihub pages.)](https://ayusouttahere.github.io/clone.amazon/)
+
 Made this one just to feel confident about my frontEnd Skills :3 
 
 well, i have only used HTML nd CSS in this one **on nvim tho.**
