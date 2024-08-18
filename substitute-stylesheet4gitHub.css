@@ -9,7 +9,6 @@
    border: border-box ; 
 }
 
-
 .navbar{
    height: 60px ; 
    background-color: #0f1111 ;
@@ -49,7 +48,7 @@
 
     /* setting up logo as background-image  */
       .navbar .nav-logo .logo{
-         background-image : url("./../.assets/amazon_logo.png"); 
+         background-image : url("./assets/amazon_logo.png"); 
          background-size: cover;
          height: 50px ; 
          width: 100% ; 
@@ -213,7 +212,7 @@
 
 /* HERO SECTION  */
 .hero-section{
-   background-image: url('./../.assets/hero_image.jpg');
+   background-image: url('./assets/hero_image.jpg');
    
    height: 350px ; 
    background-size: cover ; 
@@ -354,7 +353,7 @@ footer{
    }
    
       footer .foot-panel-three .panel-logo{
-         background-image: url('../.assets/amazon_logo.png') ;
+         background-image: url('../assets/amazon_logo.png') ;
          background-size: cover ;
          height: 50px ; 
          width: 100px ; 
